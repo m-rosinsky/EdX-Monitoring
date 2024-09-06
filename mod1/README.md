@@ -10,8 +10,8 @@
 - Explain the importance of Golden Signals (1-3)
 - Explain the differences between monitoring and evaluation (1-4)
 - Discuss the importance of the different monitoring and eval processes (1-4)
-- Describe the components of monitoring systems
-- Identify important qualities of a monitoring system
+- Describe the components of monitoring systems (1-5)
+- Identify important qualities of a monitoring system (1-5)
 - Identify important metrics to track in monitoring systems
 - Describe factors that determine which metrics you should monitor
 - Explain the need for application monitoring
