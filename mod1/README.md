@@ -4,8 +4,8 @@
 
 - Define Application Monitoring (1-1)
 - Discuss the importance of application monitoring (1-1)
-- Identify different types of monitoring
-- Discuss benefits of different types of monitoring
+- Identify different types of monitoring (1-2)
+- Discuss benefits of different types of monitoring (1-2)
 - Describe the four Golden Signals of monitoring
 - Explain the importance of Golden Signals
 - Explain the differences between monitoring and evaluation
