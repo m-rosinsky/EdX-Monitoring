@@ -12,7 +12,7 @@
 - Discuss the importance of the different monitoring and eval processes (1-4)
 - Describe the components of monitoring systems (1-5)
 - Identify important qualities of a monitoring system (1-5)
-- Identify important metrics to track in monitoring systems
-- Describe factors that determine which metrics you should monitor
+- Identify important metrics to track in monitoring systems (1-6)
+- Describe factors that determine which metrics you should monitor (1-6)
 - Explain the need for application monitoring
 - Describe the important elements of application monitoring
