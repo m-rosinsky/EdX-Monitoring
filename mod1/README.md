@@ -8,8 +8,8 @@
 - Discuss benefits of different types of monitoring (1-2)
 - Describe the four Golden Signals of monitoring (1-3)
 - Explain the importance of Golden Signals (1-3)
-- Explain the differences between monitoring and evaluation
-- Discuss the importance of the different monitoring and eval processes
+- Explain the differences between monitoring and evaluation (1-4)
+- Discuss the importance of the different monitoring and eval processes (1-4)
 - Describe the components of monitoring systems
 - Identify important qualities of a monitoring system
 - Identify important metrics to track in monitoring systems
