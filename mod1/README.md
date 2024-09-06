@@ -14,5 +14,5 @@
 - Identify important qualities of a monitoring system (1-5)
 - Identify important metrics to track in monitoring systems (1-6)
 - Describe factors that determine which metrics you should monitor (1-6)
-- Explain the need for application monitoring
-- Describe the important elements of application monitoring
+- Explain the need for application monitoring (1-7)
+- Describe the important elements of application monitoring (1-7)
