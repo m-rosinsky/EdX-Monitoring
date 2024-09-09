@@ -8,8 +8,8 @@
 - Discuss the features of synthetic monitoring tools (2-2)
 - Describe the significance of application monitoring (2-3)
 - Examine important factors while choosing the right tool for application monitoring (2-3)
-- Describe what Prometheus is used for
-- Summarize the benefits and features of Prometheus
+- Describe what Prometheus is used for (2-4)
+- Summarize the benefits and features of Prometheus (2-4)
 - Use Prometheus to monitor sample servers simulated with Node Exporter
 - Identify Grafana and its uses
 - Summarize the benefits of using Grafana
