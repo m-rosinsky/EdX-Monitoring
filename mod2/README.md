@@ -10,7 +10,7 @@
 - Examine important factors while choosing the right tool for application monitoring (2-3)
 - Describe what Prometheus is used for (2-4)
 - Summarize the benefits and features of Prometheus (2-4)
-- Use Prometheus to monitor sample servers simulated with Node Exporter
+- Use Prometheus to monitor sample servers simulated with Node Exporter (2-5)
 - Identify Grafana and its uses
 - Summarize the benefits of using Grafana
 - Deploy Grafana as a visualization tool and dashboard for Prometheus
