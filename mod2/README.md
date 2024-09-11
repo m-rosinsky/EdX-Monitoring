@@ -16,5 +16,5 @@
 - Deploy Grafana as a visualization tool and dashboard for Prometheus (2-8)
 - Define visualization as it relates to monitoring (2-9)
 - Discuss the importance of using visualization in monitoring (2-9)
-- Define alerting and alerting concepts
-- Explain the different types of alerts
+- Define alerting and alerting concepts (2-10)
+- Explain the different types of alerts (2-10)
