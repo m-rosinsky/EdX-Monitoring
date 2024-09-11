@@ -13,7 +13,7 @@
 - Use Prometheus to monitor sample servers simulated with Node Exporter (2-5)
 - Identify Grafana and its uses (2-7)
 - Summarize the benefits of using Grafana (2-7)
-- Deploy Grafana as a visualization tool and dashboard for Prometheus
+- Deploy Grafana as a visualization tool and dashboard for Prometheus (2-8)
 - Define visualization as it relates to monitoring
 - Discuss the importance of using visualization in monitoring
 - Define alerting and alerting concepts
